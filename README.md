@@ -14,11 +14,11 @@ Recently, a friend of mine in the last semester got failed in just one subject d
   <img src="https://github.com/GoyalParas/Project_Pics/blob/main/Approach.png" alt="Approach"/>
 </p>
 
-## Approach
-Focusing🎇an end-to-end approach, where we will start with 
+## Approach⭐
+Focusing an end-to-end approach, where we will start with 
 - Building a modular flask web application.
 - Data Ingestion: Extract the dataset from an external data source,here it’s kaggle.
-- Data Transformation: Separating out the score column of the subject whose score needs to be evaluated from the raw data using MYSQL 🐬 workbench
+- Data Transformation:Separating out the score column of the subject whose score needs to be evaluated from the raw data using MYSQL🐬workbench
 - Data Tracking: Tracking the transformed data using DVC(data version control) 📑
 - Model Training: Using an ensemble of machine learning algorithms ranging from Random Forest to AdaBoost Regressor in order to train the model. 
 - Model Evaluation: Evaluating the model using different evaluation metrics such as RMSE,MAE and R2 score.
