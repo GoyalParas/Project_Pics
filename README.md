@@ -1,15 +1,6 @@
 <div align="center">
-  <center><h1>Grade Guru</h1></center>
+  <center><h1>GradeXGuru</h1></center>
 </div>
-
-<br/>
-
-<div align="center">
-
-<b>My subclass</b>
-
-</div>
-
 <p align="center">
   <img src="https://github.com/GoyalParas/Project_Pics/blob/main/Designer.jpeg" alt="Profile_Pic"/>
 </p>
