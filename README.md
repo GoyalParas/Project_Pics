@@ -7,7 +7,7 @@
 
 
 ## About The Project 
-Recently, a friend of mine in the last semester got failed in just one subject due to serious health issues, despite having a remarkable academic record since the inception of the course, which resulted in his exemption from the campus placements, thus ruining his entire 4 year diligent hardwork. This is not just his problem; it’s common to observe in many educational institutes, putting a stained mark on the meritorious students’ future. Therefore, “Grade Guru” has come up with a unique solution for rescuing such students' by helping the educators to assess and evaluate such unfortunate students based on their previously established records within the institute.Now,let’s FLY✈️to see how?
+Recently, a friend of mine in the last semester, failed in just one subject due to serious health issues, despite having a remarkable academic record since the inception of the course, which resulted in his exemption from the campus placements, thus ruining his entire 4 year diligent hardwork. This is not just his problem; it’s common to observe in many educational institutes, putting a stained mark on the meritorious students’ future. Therefore, “Grade Guru” has come up with a unique solution for rescuing such students' by helping the educators to assess and evaluate such unfortunate students based on their previously established records within the institute.Now,let’s FLY✈️to see how?
 
 
 <p align="center">
