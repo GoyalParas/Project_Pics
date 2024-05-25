@@ -16,15 +16,15 @@ Recently, a friend of mine in the last semester got failed in just one subject d
 
 ## Approach⭐
 Focusing an end-to-end approach:
-- Building a modular flask web application.
-- Data Ingestion: Extract the dataset from an external data source,here it’s kaggle.
-- Data Transformation:Separating out the score column of the subject whose score needs to be evaluated from the raw data using MYSQL🐬workbench
+- Building a modular flask web application handling GET and POST requests.
+- Data Ingestion: Extract the dataset from an RDBMS,here it’s done using MYSQL🐬workbench.
+- Data Transformation:Separating out the score column of the subject whose score needs to be evaluated from the raw data.
 - Data Tracking: Tracking the transformed data using DVC(data version control) 📑
 - Model Training: Using an ensemble of machine learning algorithms ranging from Random Forest to AdaBoost Regressor under the hood to train the model. 
 - Model Evaluation: Evaluating the model using different evaluation metrics such as RMSE,MAE and R2 score.
 - ML Lifecyle Tracking: We will track the whole machine learning lifecycle of this project using mlflow🌊and dagshub 🐶
-- CI/CD: Automating build & test using github actions
-- Deployment: Finally, deploying🌱 it on aws elastic beanstalk using EC2 instances or may also try Microsoft Azure.
+- CI/CD: Automating build & test by creating code pipelines and using github actions.
+- Deployment: Finally, deploying🌱 it on aws elastic beanstalk using EC2 instances or may also try Microsoft Azure, GCP.
 
 
 ## Project Structure
