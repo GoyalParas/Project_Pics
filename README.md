@@ -16,7 +16,7 @@ Recently, a friend of mine in the last semester got failed in just one subject d
 
 ## Approach⭐
 Focusing an end-to-end approach:
-- Building a modular flask web application handling GET and POST requests.
+- Building a modular flask web application.
 - Data Ingestion: Extract the dataset from an RDBMS,here it’s done using MYSQL🐬workbench.
 - Data Transformation:Separating out the score column of the subject whose score needs to be evaluated from the raw data.
 - Data Tracking: Tracking the transformed data using DVC(data version control) 📑
